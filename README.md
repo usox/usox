@@ -2,6 +2,11 @@
 
 - 📫 How to reach me: Matrix: @wolverine:chat.wolvnet.de
 
+### Projects
+
+I'm currecntly working on
+- [ux Music Player](https://github.com/uxmp/uxmp)
+
 <!--
 **usox/usox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
