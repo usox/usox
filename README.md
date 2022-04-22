@@ -6,7 +6,7 @@
 
 I'm currecntly working on
 - [ux Music Player](https://github.com/uxmp/uxmp)
-- [HypserSunic](https://github.com/usox/hypersonic)
+- [HyperSonic](https://github.com/usox/hypersonic)
 
 <!--
 **usox/usox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
