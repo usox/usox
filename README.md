@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Matrix: @wolverine:chat.wolvnet.de
+#### 📫 How to reach me:
+- Matrix: `@wolverine:chat.wolvnet.de`
+- Mastodon: `@usox@muenchen.social`
 
 ### Projects
 
