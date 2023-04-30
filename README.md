@@ -6,7 +6,7 @@
 
 ### Projects
 
-I'm currecntly working on
+I'm currently working on
 - [ux Music Player](https://github.com/uxmp/uxmp)
 - [HyperSonic](https://github.com/usox/hypersonic)
 - [json-schema-api](https://github.com/usox/json-schema-api)
