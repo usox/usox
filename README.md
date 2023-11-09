@@ -10,6 +10,7 @@ I'm currently working on
 - [ux Music Player](https://github.com/uxmp/uxmp)
 - [HyperSonic](https://github.com/usox/hypersonic)
 - [json-schema-api](https://github.com/usox/json-schema-api)
+- [ampache](https://github.com/ampache/ampache)
 
 <!--
 **usox/usox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
