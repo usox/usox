@@ -3,12 +3,13 @@
 #### 📫 How to reach me:
 - Matrix: `@wolverine:chat.wolvnet.de`
 - Mastodon: `@usox@sueden.social`
+- Codeberg: `https://codeberg.org/usox`
 
 ### Projects
 
 I'm currently working on
-- [ux Music Player](https://github.com/uxmp/uxmp)
-- [HyperSonic](https://github.com/usox/hypersonic)
+- [ux Music Player](https://codeberg.org/usox/uxmp)
+- [HyperSonic](https://codeberg.org/usox/hypersonic)
 - [json-schema-api](https://github.com/usox/json-schema-api)
 - [ampache](https://github.com/ampache/ampache)
 
